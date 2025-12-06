@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="URL_DA_SUA_IMAGEM_AQUI" alt="Banner do Perfil">
+  <img src="banner.png" alt="Banner do Perfil">
 </p>
 
 # Olá! Eu sou André Santana 👋
