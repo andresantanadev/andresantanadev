@@ -15,15 +15,6 @@
   </a>
 </p>
 
----
-
-## 📊 Linguagens Mais Usadas
-
-
-<p align="center">
-  <img width="49%" src="https://stats.dooboo.io/api/top-langs?username=andresantanadev&theme=dracula&layout=compact" />
-</p>
-
 
 ---
 
