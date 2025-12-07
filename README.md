@@ -21,8 +21,9 @@
 
 
 <p align="center">
-  <img width="49%" src="https://ghproxy.com/https://github-readme-stats.vercel.app/api/top-langs/?username=andresantanadev&layout=compact&langs_count=7&theme=dracula" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andresantanadev&layout=compact&langs_count=7&theme=dracula&cache_seconds=1800" />
 </p>
+
 ---
 
 ## 💻 Tecnologias e Habilidades
