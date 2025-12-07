@@ -21,7 +21,7 @@
 
 
 <p align="center">
-  <img width="49%" src="https://readme-stats.clckblog.space/api/top-langs/?username=andresantanadev&layout=compact&langs_count=7&theme=dracula" />
+  <img width="49%" src="https://github-readme-stats-git-masterrk.vercel.app/api/top-langs/?username=andresantanadev&layout=compact&langs_count=7&theme=dracula" />
 </p>
 
 
