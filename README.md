@@ -19,11 +19,10 @@
 
 ## 📊 Linguagens Mais Usadas
 
+
 <p align="center">
-  <!-- SUBSTITUIR AQUI PELO SEU USER DO GITHUB -->
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andresantanadev&layout=compact&langs_count=7&theme=dracula" />
 </p>
-
 ---
 
 ## 💻 Tecnologias e Habilidades
